@@ -1,0 +1,14 @@
+.about-image {
+    width: 100vw;
+    height: 50vh;
+}
+
+.about-head {
+    text-align: center;
+}
+
+.about-text {
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+}
