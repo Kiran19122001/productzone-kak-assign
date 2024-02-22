@@ -1,16 +1,3 @@
-.navbar-container {
-    display: flex;
-    align-items: center;
-    margin: auto;
-}
-
-.nav-cont-route {
-    display: flex;
-    justify-content: space-between;
-    width: 500px;
-
-}
-
 .nav-main-cont {
     height: 100px;
 }
@@ -31,20 +18,11 @@
     padding-right: 50px !important;
 }
 
-.profile {
-    padding-left: 50px;
-}
-
-
 .container-parent {
     position: relative;
 
 }
 
-.navigation-items {
-    position: absolute;
-    right: 20px;
-}
 
 .count-nav {
     margin-left: 5px;

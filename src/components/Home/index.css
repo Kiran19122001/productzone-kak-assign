@@ -16,47 +16,6 @@
 
 }
 
-.prod-cont-container {
-    padding: 5px 30px;
-}
-
-.filter-conatiner {
-    width: 250px;
-    justify-content: space-between;
-
-}
-
-.select-range {
-    padding: 5px;
-    border: none;
-    background: black;
-    color: #fff;
-    border-radius: 5px;
-
-}
-
-.sf-cont {
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 100px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    position: relative;
-    right: 150px;
-}
-
-.searchInput {
-    border: 2px solid rgb(208, 255, 0);
-    width: 400px;
-    height: 50px;
-    border-radius: 30px;
-    padding: 3px 20px;
-    font-size: 18px;
-    font-weight: 550;
-    margin-left: 45px;
-    background-color: aliceblue;
-
-}
 
 .list-container {
     list-style: none;
